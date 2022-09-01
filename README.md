@@ -1,6 +1,7 @@
  Olá! eu me chamo Abner e atualmente estou aprendendo programação do 0, com pesquisas e videos no youtube... pois é, eu ainda sou beeemm iniciante *só o básico* ,  por isso que estou a procura de cursos e de preferencia com oportunidade de fazer gratuitamente.
  Eu quero muittooo aprender, e evoluir ainda mais o meu lado "matrix" 😝.
 
+- 🧐*Mente aberta para critica construtiva*
 - 🌱 atualmente estou aprendendo HTML, CSS E JS sozinho.
 - 🤔 Estou procurando ajuda com cursos online.
 
