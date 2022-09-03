@@ -1,8 +1,8 @@
  Olá! eu me chamo Abner e atualmente estou aprendendo programação do 0, com pesquisas e videos no youtube..
  
-- 🧐*Mente aberta para critica construtiva*
-- 🌱 atualmente estou aprendendo HTML, CSS E JS sozinho.
-- 🤔 Estou procurando ajuda com cursos online.
+- 🌱 atualmente aprendendo HTML, CSS E JS.
+              ¯\_(ツ)_/¯
+
 
                                                                ←*↓*→
             
