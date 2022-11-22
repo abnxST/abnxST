@@ -16,7 +16,7 @@
   <img align="center" alt="Abner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Abner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Abner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   src="https://midia.gruposinos.com.br/_midias/jpg/2015/05/25/vader-793107.jpg>
+ 
 </div>
   
   ##
